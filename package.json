@@ -1,0 +1,22 @@
+{
+  "name": "exif-remover",
+  "version": "0.0.1",
+  "description": "Remove the exif information of pictures to protect privacy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon0707/exif-remover.git"
+  },
+  "keywords": [
+    "exif"
+  ],
+  "author": "Leon Feng <leonlibinfeng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leon0707/exif-remover/issues"
+  },
+  "homepage": "https://github.com/leon0707/exif-remover#readme"
+}
